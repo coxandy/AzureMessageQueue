@@ -1,0 +1,11 @@
+SourceId,User,DateTime,RawLargeCalculationData
+123,domain\2549784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+124,domain\2549784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+1277,domain\2541784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+11233,domain\2509784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+12300,domain\2549084,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+66124,domain\2549784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+1013,domain\2549784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+1202,domain\2549114,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+9923,domain\2549722,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+8704,domain\2549701,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}

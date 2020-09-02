@@ -1,0 +1,3 @@
+SourceId,User,DateTime,RawLargeCalculationData
+123,domain\2549784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}
+124,domain\2549784,2020-08-28,{This_field_will_contain_large_serialized_data_to_be_processed}

@@ -1,0 +1,4 @@
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp2.2\MessageListener.csprojAssemblyReference.cache
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp2.2\MessageListener.csproj.CoreCompileInputs.cache
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp2.2\MessageListener.AssemblyInfoInputs.cache
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp2.2\MessageListener.AssemblyInfo.cs

@@ -1,0 +1,14 @@
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp3.1\MessageListenerClient.exe
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp3.1\MessageListenerClient.deps.json
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp3.1\MessageListenerClient.runtimeconfig.json
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp3.1\MessageListenerClient.runtimeconfig.dev.json
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp3.1\MessageListenerClient.dll
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp3.1\MessageListenerClient.pdb
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.csprojAssemblyReference.cache
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.AssemblyInfoInputs.cache
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.AssemblyInfo.cs
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.csproj.CoreCompileInputs.cache
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.csproj.CopyComplete
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.dll
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.pdb
+C:\AzureTest2\TestAzureMigration\MessageListener\obj\Debug\netcoreapp3.1\MessageListenerClient.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.csprojAssemblyReference.cache
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.csproj.CoreCompileInputs.cache
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.AssemblyInfoInputs.cache
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.AssemblyInfo.cs
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp2.2\MessagePublisher.deps.json
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp2.2\MessagePublisher.runtimeconfig.json
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp2.2\MessagePublisher.runtimeconfig.dev.json
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp2.2\MessagePublisher.dll
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.csproj.CopyComplete
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.genruntimeconfig.cache
+C:\AzureTest2\TestAzureMigration\Binaries\netcoreapp2.2\MessagePublisher.pdb
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.dll
+C:\AzureTest2\TestAzureMigration\MessagePublisher\obj\Debug\netcoreapp2.2\MessagePublisher.pdb
